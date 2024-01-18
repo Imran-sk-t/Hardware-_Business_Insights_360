@@ -94,38 +94,6 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
-
-![Overall Report.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Info.gif)
-
-## Finance View
-
-![Finace.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Finace.gif)
-
-## Sales View
-
-![Sales.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Sales.gif)
-
-## Marketing View
-
-![Marketing.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Marketing.gif)
-
-## Supply chain View
-
-![Supply chain.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/supply%20chain.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Imran-sk-t/Hardware-_Business_Insights_360/blob/main/Business_Insights_360-main/Resources/Products%20View.gif)
-
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of 'why' questions based on the situations.
